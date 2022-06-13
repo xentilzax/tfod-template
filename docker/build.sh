@@ -1,4 +1,4 @@
-TF_VERSION=${1:-"2.5.0"}
+TF_VERSION=${1:-"2.6.0"}
 
 echo "Tensorflow version: ${TF_VERSION}"
 
